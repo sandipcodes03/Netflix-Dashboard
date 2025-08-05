@@ -58,7 +58,7 @@ The dashboard visualizes key insights about Netflix's global content, including:
 
 ## 📎 Live Dashboard
 
-🔗 [https://public.tableau.com/app/profile/sandip.kumar.tripathy/viz/NetflixDashboard_17543085554300/NetflixDashboard](#) *(replace with your Tableau Public link)*
+🔗 [https://public.tableau.com/app/profile/sandip.kumar.tripathy/viz/NetflixDashboard_17543085554300/NetflixDashboard](#) 
 
 ---
 
